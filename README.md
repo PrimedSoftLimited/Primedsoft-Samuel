@@ -5,7 +5,9 @@ Readme Files for Quadratic Equation
 
 **Steps**
 
-step 1: input a;
+step 1: 
+        
+        input a;
 
         input b;
         
@@ -41,5 +43,7 @@ step 5: if d<0{
         
         root 1 == root2;}
      
-step 6: print(root1, root2);
+step 6: 
+
+        print(root1, root2);
 
